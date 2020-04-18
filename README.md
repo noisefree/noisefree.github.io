@@ -1,2 +1,2 @@
-# notes.github.io
-My notes on the different subjects
+# noisefree.github.io
+my personal blog
